@@ -12,7 +12,6 @@ var map = new L.Map('map', {
 });
 
 cartodb.createLayer(map, {
-  //user_name: 'andrew',
   user_name: 'documentation',
   type: 'cartodb',
   sublayers: [{
