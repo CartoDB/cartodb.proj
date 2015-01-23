@@ -2,8 +2,14 @@ This cartodb.js extension allows to work with non webmercator projections
 
 ## usage
 
+```
+```
 
 ```
+
+<script src="http://libs.cartocdn.com/cartodb.js/v3/3.11/cartodb.js"></script>
+<script src="cartodb.proj.js"></script>
+
 var map = new L.Map('map', {
   center: center,
   zoom: 4,
