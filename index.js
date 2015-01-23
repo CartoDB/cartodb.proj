@@ -46,4 +46,4 @@ function CRS(proj4text, srid) {
   });
 }
 
-exports = CRS;
+module.exports = CRS;
