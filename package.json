@@ -1,0 +1,17 @@
+{
+  "name": "cartodb.proj",
+  "version": "1.0.0",
+  "description": "CartoDB.js helper to work with non mercator projections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "proj4": "2.3.3"
+  },
+  "devDependencies": {
+    "browserify": "~3.24.5"
+  },
+  "author": "Javi Santana <jsantana@cartodb.com>",
+  "license": "MIT"
+}
